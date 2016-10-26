@@ -1,0 +1,21 @@
+{
+  "name": "guitufaile.github.io",
+  "homepage": "https://github.com/GuiTufaile/guitufaile.github.io",
+  "authors": [
+    "GuiTufaile <guilhermetufaile@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
